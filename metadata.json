@@ -1,0 +1,6 @@
+{
+  "name": "PharmaTrack Pro — Team Edition",
+  "description": "Multi-user pharmacy operations platform featuring PIN login, shared team KPIs, GS1 scanner, OCR shelf import, and leave planning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
